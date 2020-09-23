@@ -2,4 +2,6 @@
 *.js linguist-detectable=false
 *.java linguist-detectable=true
 *.html linguist-detectable=false
-*.txt linguist-detectable=true
+*.txt linguist-detectable=false
+
+
