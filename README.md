@@ -1,6 +1,6 @@
 # Data Structures Demo App
 
-Suite of applications building further upon the final project of a Data Structures + Java Programming course.
+This app was built to showcase and improve upon three projects from a Data Structures + Java Programming course.
 
 ## **Features**
 
